@@ -1,0 +1,7 @@
+.div{
+    display: flex;
+    padding: 10px;
+}
+.child-div{
+    margin: 5px;
+}
